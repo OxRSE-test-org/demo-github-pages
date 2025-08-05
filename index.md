@@ -1,6 +1,8 @@
 # Demo GitHub Pages
 
-Welcome to the test site!
+Welcome to OxRSE's test site!
 
-- [Test file](testfile.txt)
+Read on for some not interesting facts.
+
+- [Not interesting Oxford facts](facts.md)
 - Last updated: {{ site.time }}
